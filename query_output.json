@@ -1,0 +1,18 @@
+[
+    {
+        "warehouse": 1234,
+        "SUM(quantity)": 9
+    },
+    {
+        "warehouse": 1238,
+        "SUM(quantity)": 17
+    },
+    {
+        "warehouse": 1239,
+        "SUM(quantity)": 9
+    },
+    {
+        "warehouse": 1236,
+        "SUM(quantity)": 8
+    }
+]

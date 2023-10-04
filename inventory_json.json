@@ -1,0 +1,58 @@
+[
+    {
+        "product_id": 1,
+        "product": "biscuits",
+        "description": "made by parle",
+        "warehouse": 1239,
+        "quantity": 5
+    },
+    {
+        "product_id": 2,
+        "product": "chocolate",
+        "description": "manufactured by melody",
+        "warehouse": 1238,
+        "quantity": 6
+    },
+    {
+        "product_id": 3,
+        "product": "chicken",
+        "description": "fresh leafy vegetable",
+        "warehouse": 1238,
+        "quantity": 8
+    },
+    {
+        "product_id": 4,
+        "product": "spinach",
+        "description": "made by parle",
+        "warehouse": 1234,
+        "quantity": 9
+    },
+    {
+        "product_id": 5,
+        "product": "beans",
+        "description": "frozen salmon",
+        "warehouse": 1236,
+        "quantity": 1
+    },
+    {
+        "product_id": 6,
+        "product": "waffles",
+        "description": "frozen salmon",
+        "warehouse": 1238,
+        "quantity": 3
+    },
+    {
+        "product_id": 7,
+        "product": "spinach",
+        "description": "made by yummy inc",
+        "warehouse": 1236,
+        "quantity": 7
+    },
+    {
+        "product_id": 8,
+        "product": "chocolate",
+        "description": "black beans",
+        "warehouse": 1239,
+        "quantity": 4
+    }
+]
